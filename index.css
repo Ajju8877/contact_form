@@ -52,7 +52,8 @@ font-family: sans-serif;
   margin-top: 10px;
 }
 .field{
-  margin-left: 30%;
-  margin-right:60%;
+  display: flex;
+  flex: 1;
+  justify-content: center;
   padding:20px 0 20px 0;
 }
